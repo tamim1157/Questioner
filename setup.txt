@@ -1,0 +1,5 @@
+public class setup {
+    int id;
+    String name;
+    float cgpa;
+}
