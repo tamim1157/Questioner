@@ -1,5 +1,10 @@
 public class setup {
     int id;
     String name;
+    float grade;
     float cgpa;
 }
+
+  
+ 
+
